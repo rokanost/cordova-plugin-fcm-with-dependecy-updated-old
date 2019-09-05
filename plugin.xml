@@ -34,7 +34,7 @@
 	<!-- ANDROID CONFIGURATION -->
 	<platform name="android">
 
-		<preference name="FCM_CORE_VERSION" default="16.0.9" />
+		<preference name="FCM_CORE_VERSION" default="16.0.0" />
 		<preference name="FCM_VERSION" default="18.0.0" />
 		<preference name="GRADLE_TOOLS_VERSION" default="2.3.+" />
 		<preference name="GOOGLE_SERVICES_VERSION" default="3.0.0" />
